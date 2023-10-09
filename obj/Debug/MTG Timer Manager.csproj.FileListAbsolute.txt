@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\bin\Debug\MTG Timer Manager.exe.config
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\bin\Debug\MTG Timer Manager.exe
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\bin\Debug\MTG Timer Manager.pdb
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG Timer Manager.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG_Timer_Manager.Form1.resources
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG_Timer_Manager.Properties.Resources.resources
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG Timer Manager.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG Timer Manager.exe
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG Timer Manager.pdb
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG_Timer_Manager.Form2.resources
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG_Timer_Manager.Form3.resources
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG Timer Manager.TrustInfo.xml
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG Timer Manager.exe.manifest
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\bin\Debug\MTG Timer Manager.exe.manifest
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\bin\Debug\MTG Timer Manager.application
+C:\Users\hp\source\repos\MTG Timer Manager\MTG Timer Manager\obj\Debug\MTG Timer Manager.application
